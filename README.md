@@ -5,6 +5,13 @@
 > ⚠️ **Uyarı:** Ani sesler, ekran sarsıntısı, yanıp sönen efektler ve sahte bir çökme ekranı içerir.
 > Rahatsız edici bulursan `config/error422-common.toml` üzerinden efektleri kapatabilirsin.
 
+**Bağlantılar**
+
+- [GitHub deposu](https://github.com/kamil-lll/error-422)
+- [Son sürüm jar (GitHub Releases)](https://github.com/kamil-lll/error-422/releases/latest)
+- [Modrinth](https://modrinth.com/project/error-422-unknown-version) — yayın incelemesi bekliyor
+- [CurseForge yayın notları](CURSEFORGE.md)
+
 ## Ne yapıyor?
 
 Error 422, dünyaya musallat olan bozuk bir sürümün canlanmış hâlidir:
@@ -19,7 +26,7 @@ Error 422, dünyaya musallat olan bozuk bir sürümün canlanmış hâlidir:
 ## Kurulum
 
 1. **Minecraft 1.21.1** için **Forge 52.x** kur.
-2. `error422-1.2.17.jar` dosyasını `.minecraft/mods` klasörüne at.
+2. [sürüm sayfasından](https://github.com/kamil-lll/error-422/releases/latest) indirdiğin `error422-1.2.17.jar` dosyasını `.minecraft/mods` klasörüne at.
 3. Forge profiliyle oyunu başlat.
 
 ## Dil desteği
