@@ -2,7 +2,7 @@
 
 An original Minecraft horror mod inspired by the “corrupted version” creepypasta.
 
-**🇬🇧 English → below** · **🇹🇷 Türkçe → [aşağıda](#türkçe)**
+**[🇬🇧 English](#english)** · **[🇹🇷 Türkçe](#türkçe)**
 
 > ⚠️ **Warning:** contains sudden sounds, screen shake, flashing effects and a fake crash screen.
 > Every effect can be disabled in `config/error422-common.toml`.
