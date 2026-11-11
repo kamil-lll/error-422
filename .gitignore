@@ -1,0 +1,14 @@
+.gradle/
+build/
+run/
+logs/
+*.log
+.idea/
+*.iml
+.vscode/
+out/
+bin/
+
+# Derlenmis jar'lar git'e girmez; surumler GitHub Releases uzerinden dagitilir.
+*.jar
+!gradle/wrapper/gradle-wrapper.jar

@@ -1,0 +1,31 @@
+modLoader="javafml"
+loaderVersion="[52,)"
+license="MIT"
+
+[[mods]]
+modId="error422"
+version="1.2.17"
+displayName="Error 422"
+description='''
+Bozuk bir Minecraft sürümünün canlanmış glitch varlığı.
+Rastgele sistem hataları, bozulan sinyaller, sahte çökme ekranları ve seni avlayan bir varlık.
+İlgili creepypasta'dan esinlenilmiş özgün bir oynanış yorumudur; hikaye metni veya görselleri kopyalanmamıştır.
+'''
+authors="Error 422"
+
+[[dependencies.error422]]
+modId="forge"
+mandatory=true
+versionRange="[52,)"
+ordering="NONE"
+side="BOTH"
+
+[[dependencies.error422]]
+modId="minecraft"
+mandatory=true
+versionRange="[1.21.1,1.22)"
+ordering="NONE"
+side="BOTH"
+
+[[mixins]]
+config="error422.mixins.json"

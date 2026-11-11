@@ -1,0 +1,23 @@
+{
+  "targets": [
+    "swap"
+  ],
+  "passes": [
+    {
+      "name": "error422:anaglyph",
+      "intarget": "minecraft:main",
+      "outtarget": "swap",
+      "uniforms": [
+        {
+          "name": "Offset",
+          "values": [ 0.01 ]
+        }
+      ]
+    },
+    {
+      "name": "blit",
+      "intarget": "swap",
+      "outtarget": "minecraft:main"
+    }
+  ]
+}

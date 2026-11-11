@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "minecraft:paper"
+    },
+    {
+      "item": "minecraft:redstone"
+    },
+    {
+      "item": "error422:glitch_fragment"
+    }
+  ],
+  "result": {
+    "id": "error422:error_report",
+    "count": 1
+  }
+}

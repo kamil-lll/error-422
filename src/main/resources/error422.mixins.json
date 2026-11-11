@@ -1,0 +1,28 @@
+{
+  "required": true,
+  "minVersion": "0.8",
+  "package": "com.example.error422.mixin",
+  "compatibilityLevel": "JAVA_21",
+  "mixins": [
+    "ItemStackMixin",
+    "CropBlockMixin",
+    "BushBlockMixin",
+    "CactusBlockMixin"
+  ],
+  "client": [
+    "GuiMixin",
+    "ArmorLayerMixin",
+    "CreateWorldScreenMixin",
+    "TitleScreenMixin",
+    "ButtonShakeMixin",
+    "LogoRendererMixin",
+    "SplashRendererMixin",
+    "LevelRendererMixin",
+    "GameRendererMixin",
+    "AbstractContainerScreenMixin",
+    "MusicManagerMixin"
+  ],
+  "injectors": {
+    "defaultRequire": 0
+  }
+}
